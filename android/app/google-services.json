@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "814671543335",
+    "project_id": "likeplay-likeplay-app",
+    "storage_bucket": "likeplay-likeplay-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814671543335:android:424e1e90ae9ba2b4822202",
+        "android_client_info": {
+          "package_name": "com.example.likeplay_likeplay_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814671543335-tcj2vi37tq1o9jjlce33vah7if6p0hrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkNkEwhrkO0JsouDp3nwWWtiPcdCL8Nro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814671543335-tcj2vi37tq1o9jjlce33vah7if6p0hrj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
